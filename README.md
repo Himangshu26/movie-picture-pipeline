@@ -1,5 +1,9 @@
 # Movie Picture Pipeline
 
+**Author:** Himangshu Mudi  
+**Live Frontend Link:** [http://a3a12a80ab4344665b3236f076b2d842-462875165.us-east-1.elb.amazonaws.com](http://a3a12a80ab4344665b3236f076b2d842-462875165.us-east-1.elb.amazonaws.com)
+
+
 You've been brought on as the DevOps resource for a development team that manages a web application that is a catalog of Movie Picture movies. They're in dire need of automating their development workflows in hopes of accelerating their release cycle. They'd like to use Github Actions to automate testing, building and deploying their applications to an existing Kubernetes cluster.
 
 The team's project is comprised of 2 applications.
