@@ -32,7 +32,7 @@ jobs:
         run: pipenv run lint
 
   test:
-    runs-on: ubuntu-latest2
+    runs-on: ubuntu-latest
     defaults:
       run:
         working-directory: starter/backend
